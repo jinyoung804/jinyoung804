@@ -4,12 +4,12 @@
 
 ## Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ## Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js," />
 </p>
 
 ## Tools
